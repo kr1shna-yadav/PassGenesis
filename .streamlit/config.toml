@@ -1,0 +1,39 @@
+# Custom theme
+# Inspired by Anthropic
+
+[theme]
+
+base = "dark"
+
+# Accent
+primaryColor = "#D68A6B"
+
+# Surfaces
+backgroundColor = "#141413"
+secondaryBackgroundColor = "#1B1B19"
+
+# Typography
+textColor = "#F5F2EA"
+
+# Fonts
+font = "Space Grotesk"
+codeFont = "Space Mono"
+
+# Shape
+baseRadius = "0.75rem"
+buttonRadius = "full"
+
+# Borders
+borderColor = "#2C2B27"
+dataframeBorderColor = "#2C2B27"
+
+showWidgetBorder = false
+showSidebarBorder = false
+
+# Code
+codeBackgroundColor = "#1F1E1A"
+codeTextColor = "#EDE7DD"
+
+# Links
+linkColor = "#E29A78"
+linkUnderline = false
