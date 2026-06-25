@@ -6,6 +6,8 @@
 
 <div align="center">
 
+# PassGenesis
+
 Generate strong, secure, and unique passwords in seconds.
 
 Built with **Streamlit** • Secure • Privacy-First
